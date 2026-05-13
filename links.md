@@ -49,6 +49,7 @@
 ## Курсы
 
 - https://code-basics.com/ru
+- https://ru.hexlet.io/courses_free
 - https://education.yandex.ru/handbook/python
 - https://stepik.org/catalog/131?free=true
 - https://education.yandex.ru/handbook/algorithms
